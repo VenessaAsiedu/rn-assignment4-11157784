@@ -14,8 +14,6 @@ This project entails crafting a mobile application using React Native that close
 ### Popular Job Cards
 ![Popular Job Cards](screenshot3.png)
 
-### Featured Job Cards
-![Featured Job Cards](screenshot4.png)
 
 ## Components
 
