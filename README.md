@@ -1,7 +1,7 @@
 # rn-assignment4-11157784
 # DCIT202 Assignment 4
 
-##Project Overview
+## Project Overview
 This project entails crafting a mobile application using React Native that closely adheres to a predefined visual layout. The user journey commences with a login screen where individuals input their name and email. Upon successful authentication, users are seamlessly transitioned to a home screen where their personal details are prominently showcased. Furthermore, the home screen features dedicated sections for both popular and featured job listings.
 ## Screenshots
 
