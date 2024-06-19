@@ -41,7 +41,7 @@ This project entails crafting a mobile application using React Native that close
 1. Clone the repository to your local machine.
 2. Navigate to the project directory:
     
-    cd rn-assignment4-11024002
+    cd rn-assignment4-11157784
     
 3. Install the dependencies:
     
